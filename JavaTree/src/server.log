@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-10T13:58:34.044502Z</date>
+  <millis>1568123914044</millis>
+  <nanos>502000</nanos>
+  <sequence>3</sequence>
+  <logger>edu.neu.csye6200.ui.TreeApp</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.TreeApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>TreeApp started!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:34.379915Z</date>
+  <millis>1568123914379</millis>
+  <nanos>915000</nanos>
+  <sequence>4</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 0</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:34.440153Z</date>
+  <millis>1568123914440</millis>
+  <nanos>153000</nanos>
+  <sequence>5</sequence>
+  <logger>edu.neu.csye6200.ui.TreeApp</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.TreeApp</class>
+  <method>windowActivated</method>
+  <thread>18</thread>
+  <message>Window activated</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:34.462487Z</date>
+  <millis>1568123914462</millis>
+  <nanos>487000</nanos>
+  <sequence>6</sequence>
+  <logger>edu.neu.csye6200.ui.TreeApp</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.TreeApp</class>
+  <method>windowOpened</method>
+  <thread>18</thread>
+  <message>Window opened</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:36.446334Z</date>
+  <millis>1568123916446</millis>
+  <nanos>334000</nanos>
+  <sequence>7</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:36.447539Z</date>
+  <millis>1568123916447</millis>
+  <nanos>539000</nanos>
+  <sequence>8</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:36.597325Z</date>
+  <millis>1568123916597</millis>
+  <nanos>325000</nanos>
+  <sequence>9</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 1</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:37.197516Z</date>
+  <millis>1568123917197</millis>
+  <nanos>516000</nanos>
+  <sequence>10</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:37.200343Z</date>
+  <millis>1568123917200</millis>
+  <nanos>343000</nanos>
+  <sequence>11</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:37.244225Z</date>
+  <millis>1568123917244</millis>
+  <nanos>225000</nanos>
+  <sequence>12</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 2</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:38.505396Z</date>
+  <millis>1568123918505</millis>
+  <nanos>396000</nanos>
+  <sequence>13</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:38.508003Z</date>
+  <millis>1568123918508</millis>
+  <nanos>3000</nanos>
+  <sequence>14</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:38.540541Z</date>
+  <millis>1568123918540</millis>
+  <nanos>541000</nanos>
+  <sequence>15</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 3</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:40.588513Z</date>
+  <millis>1568123920588</millis>
+  <nanos>513000</nanos>
+  <sequence>16</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:40.589436Z</date>
+  <millis>1568123920589</millis>
+  <nanos>436000</nanos>
+  <sequence>17</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:40.619724Z</date>
+  <millis>1568123920619</millis>
+  <nanos>724000</nanos>
+  <sequence>18</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 4</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:42.920560Z</date>
+  <millis>1568123922920</millis>
+  <nanos>560000</nanos>
+  <sequence>19</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:42.926424Z</date>
+  <millis>1568123922926</millis>
+  <nanos>424000</nanos>
+  <sequence>20</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:42.945871Z</date>
+  <millis>1568123922945</millis>
+  <nanos>871000</nanos>
+  <sequence>21</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 5</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:50.179658Z</date>
+  <millis>1568123930179</millis>
+  <nanos>658000</nanos>
+  <sequence>22</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:50.181674Z</date>
+  <millis>1568123930181</millis>
+  <nanos>674000</nanos>
+  <sequence>23</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:50.212272Z</date>
+  <millis>1568123930212</millis>
+  <nanos>272000</nanos>
+  <sequence>24</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 6</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:52.553742Z</date>
+  <millis>1568123932553</millis>
+  <nanos>742000</nanos>
+  <sequence>25</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:52.554676Z</date>
+  <millis>1568123932554</millis>
+  <nanos>676000</nanos>
+  <sequence>26</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:52.570463Z</date>
+  <millis>1568123932570</millis>
+  <nanos>463000</nanos>
+  <sequence>27</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 7</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:55.475966Z</date>
+  <millis>1568123935475</millis>
+  <nanos>966000</nanos>
+  <sequence>28</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:55.477323Z</date>
+  <millis>1568123935477</millis>
+  <nanos>323000</nanos>
+  <sequence>29</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:55.494172Z</date>
+  <millis>1568123935494</millis>
+  <nanos>172000</nanos>
+  <sequence>30</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 8</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:57.865962Z</date>
+  <millis>1568123937865</millis>
+  <nanos>962000</nanos>
+  <sequence>31</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:58:57.868742Z</date>
+  <millis>1568123937868</millis>
+  <nanos>742000</nanos>
+  <sequence>32</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:58:57.882465Z</date>
+  <millis>1568123937882</millis>
+  <nanos>465000</nanos>
+  <sequence>33</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 9</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:00.092896Z</date>
+  <millis>1568123940092</millis>
+  <nanos>896000</nanos>
+  <sequence>34</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:00.094601Z</date>
+  <millis>1568123940094</millis>
+  <nanos>601000</nanos>
+  <sequence>35</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:59:00.102319Z</date>
+  <millis>1568123940102</millis>
+  <nanos>319000</nanos>
+  <sequence>36</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 10</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:04.975535Z</date>
+  <millis>1568123944975</millis>
+  <nanos>535000</nanos>
+  <sequence>37</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:04.977997Z</date>
+  <millis>1568123944977</millis>
+  <nanos>997000</nanos>
+  <sequence>38</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:59:04.987637Z</date>
+  <millis>1568123944987</millis>
+  <nanos>637000</nanos>
+  <sequence>39</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 11</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:10.289923Z</date>
+  <millis>1568123950289</millis>
+  <nanos>923000</nanos>
+  <sequence>40</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:10.290923Z</date>
+  <millis>1568123950290</millis>
+  <nanos>923000</nanos>
+  <sequence>41</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:59:10.300816Z</date>
+  <millis>1568123950300</millis>
+  <nanos>816000</nanos>
+  <sequence>42</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 12</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:15.459776Z</date>
+  <millis>1568123955459</millis>
+  <nanos>776000</nanos>
+  <sequence>43</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:15.460933Z</date>
+  <millis>1568123955460</millis>
+  <nanos>933000</nanos>
+  <sequence>44</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:59:15.476607Z</date>
+  <millis>1568123955476</millis>
+  <nanos>607000</nanos>
+  <sequence>45</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 13</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:19.153216Z</date>
+  <millis>1568123959153</millis>
+  <nanos>216000</nanos>
+  <sequence>46</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:19.155954Z</date>
+  <millis>1568123959155</millis>
+  <nanos>954000</nanos>
+  <sequence>47</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:59:19.178267Z</date>
+  <millis>1568123959178</millis>
+  <nanos>267000</nanos>
+  <sequence>48</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 14</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:24.326460Z</date>
+  <millis>1568123964326</millis>
+  <nanos>460000</nanos>
+  <sequence>49</sequence>
+  <logger>edu.neu.csye6200.bg.BGRule</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGRule</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created An instance of BGRule!</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:24.328053Z</date>
+  <millis>1568123964328</millis>
+  <nanos>53000</nanos>
+  <sequence>50</sequence>
+  <logger>edu.neu.csye6200.bg.BGGeneration</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.bg.BGGeneration</class>
+  <method>&lt;init&gt;</method>
+  <thread>18</thread>
+  <message>Created an BGGenration instance! </message>
+</record>
+<record>
+  <date>2019-09-10T13:59:24.375786Z</date>
+  <millis>1568123964375</millis>
+  <nanos>786000</nanos>
+  <sequence>51</sequence>
+  <logger>edu.neu.csye6200.ui.BGCanvas</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.BGCanvas</class>
+  <method>drawBG</method>
+  <thread>18</thread>
+  <message>Drawing BG 15</message>
+</record>
+<record>
+  <date>2019-09-10T13:59:30.583112Z</date>
+  <millis>1568123970583</millis>
+  <nanos>112000</nanos>
+  <sequence>52</sequence>
+  <logger>edu.neu.csye6200.ui.TreeApp</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.ui.TreeApp</class>
+  <method>windowClosing</method>
+  <thread>18</thread>
+  <message>Window closing</message>
+</record>
+</log>
